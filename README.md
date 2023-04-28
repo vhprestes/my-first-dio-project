@@ -8,6 +8,6 @@
 
 
 ```bash
-  git clone git@github.com:GiovannaMorais/dio-first-project.git
+  git clone git@github.com:vhprestes/my-first-dio-project.git
   cd dio-first-project
 ```
