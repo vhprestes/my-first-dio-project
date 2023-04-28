@@ -9,5 +9,5 @@
 
 ```bash
   git clone git@github.com:vhprestes/my-first-dio-project.git
-  cd dio-first-project
+  cd my-dio-first-project
 ```
